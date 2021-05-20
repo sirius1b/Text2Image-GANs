@@ -1,0 +1,7 @@
+torch
+h5py
+numpy
+Pillow
+matplotlib
+torchvision
+googledrivedownloader
