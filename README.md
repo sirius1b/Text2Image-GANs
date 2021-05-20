@@ -8,10 +8,10 @@ Text Embeddings are referenced from [reedscot/icml2016](https://github.com/reeds
 Models were trained for 100 epochs. To prevent the overfitting of multi
 ### Results
 #### DCGAN
-<img src = "Baseline/Results/1.png">
+<img src = "Baseline/results/1.png">
 
 #### DCGAN-CLS-INT
-<img src = "Baseline/Results/2.png">
+<img src = "Baseline/results/2.png">
 
 Report: [HERE](../main/Baseline/Report.pdf)
 
